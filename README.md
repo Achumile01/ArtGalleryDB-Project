@@ -53,6 +53,4 @@ This project can be used as:
 
 Contributions are welcome. Please open an issue or submit a pull request with a clear description of your changes.
 
-## License
 
-Specify your project's license here (e.g., MIT, Apache 2.0).
